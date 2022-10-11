@@ -18,6 +18,9 @@ public class Ejercicio5 {
         System.out.print("Introduce tu permiso: ");
         permiso = read.nextLine();
 
+        // ? Salto de Línea Bonito
+        System.out.println();System.out.println("------------------------------");System.out.println();
+
         // ! Comprobamos mediante un switch a que pertenece ese carnet
         switch (permiso){
             case "A":
