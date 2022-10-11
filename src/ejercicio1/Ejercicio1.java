@@ -18,6 +18,9 @@ public class Ejercicio1 {
         System.out.print("Introduce tu nota del 0 al 10: ");
         nota = read.nextByte();
 
+        // ? Salto de Línea Bonito
+        System.out.println();System.out.println("------------------------------");System.out.println();
+
         // ! Comprobamos mediante una estructura Switch la nota introducida
         switch (nota) {
             case 0:

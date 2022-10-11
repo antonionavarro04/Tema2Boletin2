@@ -18,6 +18,9 @@ public class Ejercicio2 {
         System.out.print("Introduce un numero del 1 al 7: ");
         dia = read.nextByte();
 
+        // ? Salto de Línea Bonito
+        System.out.println();System.out.println("------------------------------");System.out.println();
+
         // ! Comprobamos mediante una estructura Switch a que dia pertenece el numero introducido
         switch (dia){
             case 1:
