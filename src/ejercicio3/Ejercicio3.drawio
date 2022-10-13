@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T11:30:02.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="8PphsY3EqflN7XYrbh_j" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-13T11:31:32.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="TIP-eKHOlxEcLHx7JC9W" version="20.4.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="694" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="PtO5_RdDYiuD5mhjzJ4b-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PtO5_RdDYiuD5mhjzJ4b-5" target="PtO5_RdDYiuD5mhjzJ4b-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PtO5_RdDYiuD5mhjzJ4b-5" value="out (Selecciona el Modo)&lt;br&gt;a = suma&lt;br&gt;b = resta&lt;br&gt;c = multiplicación&lt;br&gt;d = división" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="PtO5_RdDYiuD5mhjzJ4b-5" value="out (Selecciona el Modo:&lt;br&gt;a = suma&lt;br&gt;b = resta&lt;br&gt;c = multiplicación&lt;br&gt;d = división)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="233" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PtO5_RdDYiuD5mhjzJ4b-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PtO5_RdDYiuD5mhjzJ4b-8" target="PtO5_RdDYiuD5mhjzJ4b-10">
@@ -107,6 +107,18 @@
         </mxCell>
         <mxCell id="PtO5_RdDYiuD5mhjzJ4b-31" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="570" y="765" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PtO5_RdDYiuD5mhjzJ4b-44" value="case &#39;a&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PtO5_RdDYiuD5mhjzJ4b-45" value="case &#39;b&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="543" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PtO5_RdDYiuD5mhjzJ4b-46" value="case &#39;c&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="635" y="543" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PtO5_RdDYiuD5mhjzJ4b-47" value="case &#39;d&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="865" y="520" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
